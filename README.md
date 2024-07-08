@@ -1,4 +1,4 @@
-# coleection : Tv
+# collection : Tv
 Database: mongodb
 Tv folder has two sub-folders
 : 1> Frontend
